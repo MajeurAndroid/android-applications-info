@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_spinner_items">
+        <item>@string/nome</item>
+        <item>@string/pacote_string</item>
+        <item>@string/sistema_usuário</item>
+        <item>@string/instalação</item>
+        <item>@string/tamanho</item>
+    </string-array>
+</resources>
