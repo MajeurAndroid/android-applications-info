@@ -9,9 +9,12 @@ It can be a good source of inspiration for all beginners. It deals with activiti
       alt="Get it on F-Droid"
       height="80">](https://f-droid.org/app/com.majeur.applicationsinfo)
 
-[<img src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png">](https://play.google.com/store/apps/details?id=com.majeur.applicationsinfo)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
+      alt="Get it on Google Play"
+      height="80">](https://play.google.com/store/apps/details?id=com.majeur.applicationsinfo)
 
-![alt tag](https://raw.githubusercontent.com/MajeurAndroid/Applications-Info/master/web_res/device-2015-04-08-010322.png)
+
+![Screenshot](https://raw.githubusercontent.com/MajeurAndroid/Applications-Info/master/web_res/device-2015-04-08-010322.png)
 
 ## Changelog
 
